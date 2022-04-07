@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prokot
 - 👀 I’m interested in webdev, fullstack development.
-- 🌱 I’m currently learning JS React, Python backend.
+- 🌱 I’m currently learning JS React, Python .
 - 📫 How to reach me prok.mikolaj@gmail.com
 
 <!---
